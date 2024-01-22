@@ -1,2 +1,2 @@
-# node-express-hello-world
-A simple Hello World Node Express Project
+# Ecommerce Project
+A simple hello world project
