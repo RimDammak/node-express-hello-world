@@ -13,4 +13,4 @@ npm install
 node app.js
 ```
 
-once server started you can verify by visiting [localhost:3000](localhost:3000)
+once server started you can verify by visiting [http://localhost:3000](http://localhost:3000)
